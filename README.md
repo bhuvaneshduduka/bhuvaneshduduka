@@ -49,7 +49,7 @@
 
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/bhuvanesh-duduka/" target="_blank">
+<a href="https://www.linkedin.com/in/bhuvanesh-duduka-9a1443330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
 </a>
 </p>
